@@ -1,6 +1,10 @@
 # openai
 
 ## Project setup
+
+### 设置.env文件
+将.env 文件中的 VUE_APP_OPENAI_KEY 替换为你的openai key
+
 ```
 npm install
 ```
