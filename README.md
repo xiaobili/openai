@@ -1,28 +1,22 @@
-# openai
+# ChatGPT Demo
 
-## Project setup
+## 项目介绍
 
 ### 设置.env文件
 将.env 文件中的 VUE_APP_OPENAI_KEY 替换为你的openai key
 
-```
+### 安装依赖
+```bash
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
+### 运行
+```bash
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
+### 编译
+```bash
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
